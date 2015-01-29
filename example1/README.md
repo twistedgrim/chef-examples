@@ -19,3 +19,9 @@ test-kitchen to verify it was successful.
 ```shell
 kitchen test
 ```
+
+### Help
+
+- File resource - https://docs.chef.io/resource_file.html
+- Package resource - https://docs.chef.io/resource_package.html
+- Service resource - https://docs.chef.io/resource_service.html
