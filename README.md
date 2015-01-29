@@ -7,6 +7,8 @@ and Berkshelf is installed and working correctly.
 The following script might prove useful:
 https://github.com/jarosser06/chef_tools_install
 
+Once everything is set up change directory to the first excercise and begin hacking!!
+
 ### Help
 If you don't know where to begin with an excercise try provisioning the
 server first, solve the problem manually, and then create the configuration.
