@@ -1,4 +1,4 @@
-name             'tutorial1'
+name             'example1'
 maintainer       'Jim Rosser'
 maintainer_email 'jarosser06@gmail.com'
 license          'MIT'

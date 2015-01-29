@@ -1,5 +1,5 @@
-tutorial1 Cookbook
-==================
+example1 Cookbook
+=================
 
 ### Requirements
 

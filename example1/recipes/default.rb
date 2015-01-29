@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: tutorial1
+# Cookbook Name:: example1
 # Recipe:: default
 #
 # Copyright 2015, Jim Rosser
