@@ -8,8 +8,8 @@ The following script might prove useful:
 https://github.com/jarosser06/chef_tools_install
 
 ### Help
-If you don't know where to begin with an excercise then provision the
-server first, solve it manually and then create the configuration.
+If you don't know where to begin with an excercise try provisioning the
+server first, solve the problem manually, and then create the configuration.
 
 Converge the new server using the following command:
 ```shell
