@@ -28,6 +28,8 @@ kitchen test
 
 ### Help
 Hint: You may use the Community Nginx cookbook
+Another Hint: Make sure git is installed before you try to use
+it.
 
 - Git resource - https://docs.chef.io/resource_git.html
 - Nginx resource - https://supermarket.chef.io/cookbooks/nginx
