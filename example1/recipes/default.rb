@@ -12,3 +12,15 @@
 # server 2.pool.ntp.org
 #
 # Make sure the service gets enabled and started
+
+package "ntp"
+end
+
+template "/etc/ntp.conf" do
+  source "ntp.conf.erb"
+  action :create
+end
+
+service "ntp do
+  action :enable
+end
