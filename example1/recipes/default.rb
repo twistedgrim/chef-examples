@@ -13,14 +13,13 @@
 #
 # Make sure the service gets enabled and started
 
-package "ntp"
-end
+package 'ntp'
 
-template "/etc/ntp.conf" do
-  source "ntp.conf.erb"
+template '/etc/ntp.conf' do
+  source 'ntp.conf.erb'
   action :create
 end
 
-service "ntp do
-  action :enable
+service 'ntp' do
+  action [:enable, :start]
 end
