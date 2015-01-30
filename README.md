@@ -1,5 +1,9 @@
 # chef-examples
 
+The early examples do use Ubuntu 14.04 to test however you
+should get used to writing the recipes distro agnostic because
+the distro may change.
+
 ### Setup
 Set up a basic Chef workstation using Ruby or ChefDK.  Make sure Vagrant, Virtualbox, 
 and Berkshelf is installed and working correctly.
