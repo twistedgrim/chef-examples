@@ -28,6 +28,7 @@ kitchen test
 
 ### Help
 Hint: You may use the Community Nginx cookbook
+
 Another Hint: Make sure git is installed before you try to use
 it.
 
